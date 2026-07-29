@@ -39,3 +39,7 @@ img {
   -webkit-user-drag: none;
   user-drag: none;
 }
+
+.test {
+  color: #fff;
+}

@@ -151,7 +151,7 @@ export default function Testimonial() {
             <p className="font-all font-semibold text-2xl text-center w-full text-black">
               Don't take our words for it.
               <br />
-              <span className="text-emerald-600">Trust our customers</span>
+              <span className="text-emerald-600 test">Trust our customers</span>
             </p>
           </div>
           <section className="w-full flex items-center justify-center mt-6">
